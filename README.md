@@ -1,10 +1,32 @@
-## Welcome to GitHub Pages
+## Encyclopedia of District of Columbia History
 
-You can use the [editor on GitHub](https://github.com/DCdotNerd/EncyclopediaOfDC/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site is a starting point for what I envision as a collaboratively developed, community reviewed encyclopedia of the history of the District of Columbia. This site is being set up to provide a visual platform for brainstorming the process of developing the encyclopedia.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Organization
+Key structures for content/article decisions:
+- People
+--Commissioners
+--Mayors
+--Councilmembers
+--other elected officials
+--appointed officials
+--Statehood advocates
+--and so many more!
+- Places
+--neighborhoods
+--historic districts
+--parks
+--notable buildings
+- Events
+--1862 DC Emancipation
+--1963 March on Washington
+--1968 civil unrest
+--Retrocession to Virginia
+--2020 House of Representatives vote on statehood
+- Concepts
+--Home Rule and Statehood
+--Race relations in the District of Columbia
+### Process
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
