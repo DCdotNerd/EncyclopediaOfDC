@@ -8,7 +8,7 @@ Key structures for content/article decisions:
     -Commissioners
     -Mayors
     -Councilmembers
---other elected officials
+    -other elected officials
 --appointed officials
 --Statehood advocates
 --and so many more!
