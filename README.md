@@ -13,19 +13,20 @@ Key structures for content/article decisions:
    - Statehood advocates
    - and so many more!
 - Places
---neighborhoods
---historic districts
---parks
---notable buildings
+    - neighborhoods
+    - historic districts
+    - parks
+    - notable buildings
 - Events
---1862 DC Emancipation
---1963 March on Washington
---1968 civil unrest
---Retrocession to Virginia
---2020 House of Representatives vote on statehood
+    - 1862 DC Emancipation
+    - 1963 March on Washington
+    - 1968 civil unrest
+    - Retrocession to Virginia
+    - 2020 House of Representatives vote on statehood
 - Concepts
---Home Rule and Statehood
---Race relations in the District of Columbia
+    - Home Rule and Statehood
+    - Race relations in the District of Columbia
+
 ### Process
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
