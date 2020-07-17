@@ -5,8 +5,8 @@ This site is a starting point for what I envision as a collaboratively developed
 ### Organization
 Key structures for content/article decisions:
 - People
---Commissioners
---Mayors
+- -Commissioners
+- -Mayors
 --Councilmembers
 --other elected officials
 --appointed officials
